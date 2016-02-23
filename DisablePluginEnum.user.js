@@ -11,4 +11,4 @@
 // @grant none 
 // ==/UserScript==
 
-Object.defineProperty(navigator, "plugins", {value: []});x
+Object.defineProperty(navigator, "plugins", {value: []});
